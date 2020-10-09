@@ -1,3 +1,4 @@
+package dominio;
 class MateriaPrima{
 
     private int num;
